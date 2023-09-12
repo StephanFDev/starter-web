@@ -1,6 +1,7 @@
 # Start Web Project
 
-Thi si a simple website project for shwing how to use Git and Github together. Here is a bit more text that I wanted to add, something more for changes.
+This is a simple website project for shwing how to use Git and Github together. Here is a bit more text that I wanted to add, something more for changes.
+Fixed the spelling mistakes.
 
 ## Introduction
 
