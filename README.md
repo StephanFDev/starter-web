@@ -20,4 +20,4 @@ Please fork this repositor and then issue Pull Request for review.
 
 ### Copyright
 
-I will find you if you steal
+Just kidding, but don't steal
